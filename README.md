@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on OPS
-- 🌱 I’m currently learning Java,C++,Data Structures and Algorithm Analysis,Deep Learning
+- 🌱 I’m currently learning Java,C/C++,Python,Data Structures and Algorithm Analysis,Deep Learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 <img src="https://i.imgur.com/p8lftEG.png" alt="drawing" width="50"/> 　
 - 💻  　I'm an Operation Engineer.
 - 😍  　I'm interested in Network, Cloud Native Computing ,and the various open sources.
-- ☁️  　I'm a member of [Cloud Native Taiwan User Group (CNTUG)](https://github.com/cloud-native-taiwan).
+- ☁️  　I'm a member of [ApacheCN](https://github.com/apachecn).
 - 📚  　Keep learning.
 
 
 ### 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-![Samina Fu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sufuf3&show_icons=true&theme=cobalt)
+![PEGASUS1993's GitHub stats](https://github-readme-stats.vercel.app/api?username=PEGASUS1993&show_icons=true&theme=cobalt)
