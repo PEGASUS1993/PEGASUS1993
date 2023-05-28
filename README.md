@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-###复制粘贴他人的板式
+### 复制粘贴他人的板式
 
 ![:PEGASUS1993](https://count.getloli.com/get/@:github-PEGASUS1993)
 
